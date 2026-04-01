@@ -3,3 +3,4 @@
 .vercel
 out
 npm-debug.log*
+.vercel
