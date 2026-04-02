@@ -12,6 +12,7 @@ import { AllocationList } from '@/components/split/allocation-list'
 import { StatusPill } from '@/components/status/status-pill'
 import { useRecentSplits } from '@/hooks/useRecentSplits'
 import { useSplitForm } from '@/hooks/useSplitForm'
+import { BASE_DATA_SUFFIX } from '@/lib/attribution'
 import { SPLIT_CONTRACT_ADDRESS, splitAbi } from '@/lib/contract'
 import { formatWalletAddress, parseAmountToWei } from '@/lib/utils'
 
@@ -76,10 +77,11 @@ export function ReviewView() {
           args: [typedRecipients, shares],
           account: address,
           value: amountWei,
+          dataSuffix: BASE_DATA_SUFFIX,
         })
 
         if (!ignore) {
-          setPrecheck({ ready: true, message: 'Ready' })
+          setPrecheck({ ready: true, message: `Ready · ${BASE_DATA_SUFFIX.slice(0, 10)}...` })
         }
       } catch (error) {
         if (!ignore) {
@@ -125,6 +127,7 @@ export function ReviewView() {
         args: [typedRecipients, shares],
         value: amountWei,
         chainId: base.id,
+        dataSuffix: BASE_DATA_SUFFIX,
       })
     } catch (error) {
       const message =
