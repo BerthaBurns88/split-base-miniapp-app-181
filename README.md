@@ -11,3 +11,11 @@ Split is a lightweight mini app for creating instant ETH splits on the Base netw
 The project is built with a modern web stack and is intended to provide a simple interface for interacting with the deployed Split contract.
 
 ## Project Details
+
+- **Project name:** `split-base-miniapp-app-181`
+- **App ID:** `app-181`
+- **Network:** Base
+- **Contract:** `0x76242c1bdeca746a5dd9430b06c23af3ffe520f2`
+- **Framework:** Next.js
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
