@@ -89,3 +89,10 @@ Before making changes to contract-related behavior, confirm that the contract ad
 - Verify Base network behavior when updating web3 logic.
 
 ## Suggested Project Structure
+
+The exact structure may vary, but a typical Next.js project includes:
+
+```text
+app/
+components/
+lib/
