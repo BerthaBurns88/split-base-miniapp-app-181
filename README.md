@@ -61,3 +61,10 @@ npm run dev
 ```
 
 Open the local development URL shown in your terminal.
+
+## Usage
+
+1. Start the app locally.
+2. Open the app in a browser.
+3. Connect a compatible wallet.
+4. Make sure the wallet is using the Base network.
