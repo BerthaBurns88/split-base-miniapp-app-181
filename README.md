@@ -110,3 +110,9 @@ Common scripts for a Next.js project may include:
 npm run dev
 npm run build
 npm run start
+npm run lint
+```
+
+If a script is not available, check `package.json` for the commands supported by this repository.
+
+## Deployment
