@@ -96,3 +96,10 @@ The exact structure may vary, but a typical Next.js project includes:
 app/
 components/
 lib/
+public/
+styles/
+```
+
+Use the existing repository structure as the source of truth when making changes.
+
+## Scripts
