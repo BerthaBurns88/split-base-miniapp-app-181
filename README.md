@@ -81,3 +81,11 @@ The app is configured to work with the following contract:
 Before making changes to contract-related behavior, confirm that the contract address and network configuration are correct.
 
 ## Development Notes
+
+- Keep contract addresses and chain configuration easy to review.
+- Prefer typed utilities when working with transaction data.
+- Keep UI components small and focused.
+- Test changes locally before committing.
+- Verify Base network behavior when updating web3 logic.
+
+## Suggested Project Structure
