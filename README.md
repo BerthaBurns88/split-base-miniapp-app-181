@@ -68,3 +68,10 @@ Open the local development URL shown in your terminal.
 2. Open the app in a browser.
 3. Connect a compatible wallet.
 4. Make sure the wallet is using the Base network.
+5. Use the interface to prepare and submit an ETH split.
+
+## Contract Information
+
+The app is configured to work with the following contract:
+
+```text
