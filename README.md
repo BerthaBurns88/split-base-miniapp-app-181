@@ -116,3 +116,11 @@ npm run lint
 If a script is not available, check `package.json` for the commands supported by this repository.
 
 ## Deployment
+
+Build the project before deployment:
+
+```bash
+npm run build
+```
+
+After a successful build, deploy using the hosting provider and configuration used by the project.
