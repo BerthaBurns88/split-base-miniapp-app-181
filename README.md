@@ -75,3 +75,9 @@ Open the local development URL shown in your terminal.
 The app is configured to work with the following contract:
 
 ```text
+0x76242c1bdeca746a5dd9430b06c23af3ffe520f2
+```
+
+Before making changes to contract-related behavior, confirm that the contract address and network configuration are correct.
+
+## Development Notes
