@@ -40,3 +40,10 @@ This project uses:
 - [viem](https://viem.sh/) for low-level Ethereum utilities.
 
 ## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/BerthaBurns88/split-base-miniapp-app-181.git
+cd split-base-miniapp-app-181
+```
