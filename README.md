@@ -103,3 +103,10 @@ styles/
 Use the existing repository structure as the source of truth when making changes.
 
 ## Scripts
+
+Common scripts for a Next.js project may include:
+
+```bash
+npm run dev
+npm run build
+npm run start
