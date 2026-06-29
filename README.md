@@ -32,3 +32,11 @@ The project is built with a modern web stack and is intended to provide a simple
 ## Tech Stack
 
 This project uses:
+
+- [Next.js](https://nextjs.org/) for the application framework.
+- [TypeScript](https://www.typescriptlang.org/) for type-safe development.
+- [Tailwind CSS](https://tailwindcss.com/) for styling.
+- [wagmi](https://wagmi.sh/) for Ethereum React hooks.
+- [viem](https://viem.sh/) for low-level Ethereum utilities.
+
+## Getting Started
