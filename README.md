@@ -26,3 +26,9 @@ The project is built with a modern web stack and is intended to provide a simple
 - Create ETH splits on Base.
 - Interact with the deployed Split contract.
 - Use a responsive interface built with Tailwind CSS.
+- Benefit from typed application code with TypeScript.
+- Use wagmi and viem for blockchain interactions.
+
+## Tech Stack
+
+This project uses:
