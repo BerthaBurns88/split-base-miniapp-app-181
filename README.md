@@ -124,3 +124,10 @@ npm run build
 ```
 
 After a successful build, deploy using the hosting provider and configuration used by the project.
+
+## Contributing
+
+When contributing:
+
+- Keep changes focused and easy to review.
+- Follow the existing TypeScript and formatting style.
