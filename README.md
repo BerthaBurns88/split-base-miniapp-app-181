@@ -19,3 +19,10 @@ The project is built with a modern web stack and is intended to provide a simple
 - **Framework:** Next.js
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
+- **Web3 libraries:** wagmi and viem
+
+## Features
+
+- Create ETH splits on Base.
+- Interact with the deployed Split contract.
+- Use a responsive interface built with Tailwind CSS.
