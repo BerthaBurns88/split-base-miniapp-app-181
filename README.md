@@ -47,3 +47,9 @@ Clone the repository:
 git clone https://github.com/BerthaBurns88/split-base-miniapp-app-181.git
 cd split-base-miniapp-app-181
 ```
+
+Install dependencies:
+
+```bash
+npm install
+```
