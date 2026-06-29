@@ -131,3 +131,10 @@ When contributing:
 
 - Keep changes focused and easy to review.
 - Follow the existing TypeScript and formatting style.
+- Avoid unrelated refactors in feature changes.
+- Document important configuration updates.
+- Confirm that the app still builds successfully.
+
+## License
+
+No license information was provided in the original project details. Add a license file if one is intended for this repository.
